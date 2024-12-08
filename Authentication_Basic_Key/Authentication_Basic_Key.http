@@ -1,0 +1,6 @@
+@Authentication_Basic_Key_HostAddress = http://localhost:5038
+
+GET {{Authentication_Basic_Key_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
